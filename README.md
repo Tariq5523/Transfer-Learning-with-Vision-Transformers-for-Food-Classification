@@ -4,3 +4,5 @@ This project investigates the application of Vision Transformers, specifically t
 1. Download the [Food101](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/) dataset.
 2. Install Requirements using pip install -r requirements.txt
 3. Download Pre-Trained Models --> [TransNeXt](https://github.com/DaiShiResearch/TransNeXt/tree/main/classification)
+4. Ensure the appropriate model is selected in dist_tran.bat
+5. For visualizations of the classification results, check the Results_Data_visualization.ipynb notebook.
